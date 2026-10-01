@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00FF41&background=0D111700&center=true&vCenter=true&width=700&lines=%24+whoami;Abdelhamid+Rayen+Allagui;Network+Security+%7C+SOC+Analyst+in+the+making;CompTIA+Security%2B+certified" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/abdelhamidrayene-allagui-a6b26a380/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?&style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117&color=0D1117" /></a>
-<img src="https://img.shields.io/badge/-Security%2B-0D1117?&style=for-the-badge&logo=comptia&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/location-Tunisia-0D1117?&style=for-the-badge&logo=googlemaps&logoColor=00FF41" />
+<a href="https://www.linkedin.com/in/abdelhamidrayene-allagui-a6b26a380/"><img src="https://img.shields.io/badge/-LinkedIn-161B22?&style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117&color=0D1117" /></a>
+<img src="https://img.shields.io/badge/-Security%2B-161B22?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/location-Tunisia-161B22?&style=for-the-badge" />
 
 </div>
 
@@ -42,30 +42,30 @@ My goal is to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst*
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-0D1117?&style=for-the-badge&logo=wireshark&logoColor=00FF41" />
-    <img src="https://img.shields.io/badge/-Snort-0D1117?&style=for-the-badge&logo=snort&logoColor=00FF41" />
-    <img src="https://img.shields.io/badge/-Zabbix-0D1117?&style=for-the-badge&logo=zabbix&logoColor=00FF41" />
-    <img src="https://img.shields.io/badge/-iptables-0D1117?&style=for-the-badge&logo=linux&logoColor=00FF41" />
-    <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-0D1117?&style=for-the-badge&logo=cisco&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-Wireshark-161B22?&style=for-the-badge&logo=wireshark&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-Snort-161B22?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Zabbix-161B22?&style=for-the-badge&logo=zabbix&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-iptables-161B22?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-161B22?&style=for-the-badge" />
 </div>
 
 ### SIEM and Monitoring
 <div>
-    <img src="https://img.shields.io/badge/-Wazuh-0D1117?&style=for-the-badge&logo=wazuh&logoColor=00FF41" />
-    <img src="https://img.shields.io/badge/-Zabbix-0D1117?&style=for-the-badge&logo=zabbix&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-Wazuh-161B22?&style=for-the-badge&logo=wazuh&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-Zabbix-161B22?&style=for-the-badge&logo=zabbix&logoColor=00FF41" />
 </div>
 
 ### Offensive and Labs
 <div>
-    <img src="https://img.shields.io/badge/-Kali_Linux-0D1117?&style=for-the-badge&logo=kalilinux&logoColor=00FF41" />
-    <img src="https://img.shields.io/badge/-Metasploitable-0D1117?&style=for-the-badge&logo=metasploit&logoColor=00FF41" />
-    <img src="https://img.shields.io/badge/-OpenSSL-0D1117?&style=for-the-badge&logo=openssl&logoColor=00FF41" />
-    <img src="https://img.shields.io/badge/-VirtualBox-0D1117?&style=for-the-badge&logo=virtualbox&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-161B22?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Metasploitable-161B22?&style=for-the-badge&logo=metasploit&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-OpenSSL-161B22?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-VirtualBox-161B22?&style=for-the-badge" />
 </div>
 
 ## > Certifications
 <div>
-    <img src="https://img.shields.io/badge/-CompTIA_Security%2B_SY0--701-0D1117?&style=for-the-badge&logo=comptia&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-CompTIA_Security%2B_SY0--701-161B22?&style=for-the-badge" />
 </div>
 
 ## > Projects
