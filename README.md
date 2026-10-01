@@ -1,60 +1,90 @@
-# Hello, I'm abdelhamid
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div align="center">
 
-[Brief Introduction - Remove this afterwards]
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00FF41&background=0D111700&center=true&vCenter=true&width=700&lines=%24+whoami;Abdelhamid+Rayen+Allagui;Network+Security+%7C+SOC+Analyst+in+the+making;CompTIA+Security%2B+certified" alt="Typing SVG" />
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+<a href="https://www.linkedin.com/in/abdelhamidrayene-allagui-a6b26a380/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?&style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117&color=0D1117" /></a>
+<img src="https://img.shields.io/badge/-Security%2B-0D1117?&style=for-the-badge&logo=comptia&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/location-Tunisia-0D1117?&style=for-the-badge&logo=googlemaps&logoColor=00FF41" />
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+</div>
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+```bash
+root@rayene:~# cat about.txt
+```
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## > Hello, I'm Abdelhamid Rayen Allagui
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+Network security student at **ISETCOM** (STIC – Network Security track), passionate about defensive security, threat detection and network monitoring. I build and break things in home labs, then document what I learn.
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## > Objective
+
+My goal is to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst** and grow toward network and security administration. I'm looking for opportunities where I can detect, analyze and respond to real threats.
+
+## > Experience
+
+| Role | Where | What I did |
+|------|-------|------------|
+| SOC/NOC Intern (2026) | **STB Bank** | Deployed **Wazuh** (SIEM) for intrusion detection and log analysis, and **Zabbix** for network monitoring and dashboards |
+| Observation Intern (2025) | **Tunisie Telecom** | Telecom infrastructure and fiber optic connection techniques |
+
+## > Skills
+
+| Skill | Associated Project |
+|-------|--------------------|
+| SIEM Implementation and Log Analysis | [Wazuh SIEM Lab](https://github.com/USERNAME/wazuh-siem-lab) |
+| Intrusion Detection (IDS) and Attack Detection | [Snort IDS Lab](https://github.com/USERNAME/snort-ids-lab) |
+| Network Monitoring and Alerting | [SOC/NOC Monitoring Lab](https://github.com/USERNAME/soc-noc-monitoring) |
+| Packet Analysis (PCAP / Wireshark) | [CTF Writeups](https://github.com/USERNAME/ctf-writeups) |
+| Penetration Testing Fundamentals | [Pentest Lab (Kali + Metasploitable)](https://github.com/USERNAME/pentest-lab) |
+| Applied Cryptography | [OpenSSL Crypto Lab](https://github.com/USERNAME/openssl-crypto-lab) |
+
+## > Tools
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-0D1117?&style=for-the-badge&logo=wireshark&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-Snort-0D1117?&style=for-the-badge&logo=snort&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-Zabbix-0D1117?&style=for-the-badge&logo=zabbix&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-iptables-0D1117?&style=for-the-badge&logo=linux&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-0D1117?&style=for-the-badge&logo=cisco&logoColor=00FF41" />
 </div>
 
-### Endpoint
+### SIEM and Monitoring
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-0D1117?&style=for-the-badge&logo=wazuh&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-Zabbix-0D1117?&style=for-the-badge&logo=zabbix&logoColor=00FF41" />
 </div>
 
-### SIEM
+### Offensive and Labs
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-0D1117?&style=for-the-badge&logo=kalilinux&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-Metasploitable-0D1117?&style=for-the-badge&logo=metasploit&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-OpenSSL-0D1117?&style=for-the-badge&logo=openssl&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/-VirtualBox-0D1117?&style=for-the-badge&logo=virtualbox&logoColor=00FF41" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+## > Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CompTIA_Security%2B_SY0--701-0D1117?&style=for-the-badge&logo=comptia&logoColor=00FF41" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## > Projects
+
+- [Wazuh SIEM Lab](https://github.com/USERNAME/wazuh-siem-lab): SIEM deployment on VirtualBox, agents, rules and alerts
+- [Snort IDS Lab](https://github.com/USERNAME/snort-ids-lab): custom rules and attack detection
+- [SOC/NOC Monitoring Lab](https://github.com/USERNAME/soc-noc-monitoring): Wazuh + Zabbix combined monitoring
+- [CTF Writeups](https://github.com/USERNAME/ctf-writeups): crypto, PCAP analysis, file carving
+- [OpenSSL Crypto Lab](https://github.com/USERNAME/openssl-crypto-lab): encryption, hashing and certificates on Kali
+
+## > Languages
+
+Arabic (native) · French (professional) · English (intermediate)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" height="160" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&fontColor=00FF41&height=100&section=footer" width="100%" />
+
+</div>
