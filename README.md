@@ -32,11 +32,9 @@ My goal is to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst*
 | Skill | Associated Project |
 |-------|--------------------|
 | SIEM Implementation and Log Analysis | [Wazuh SIEM Lab](https://github.com/USERNAME/wazuh-siem-lab) |
-| Intrusion Detection (IDS) and Attack Detection | [Snort IDS Lab](https://github.com/USERNAME/snort-ids-lab) |
 | Network Monitoring and Alerting | [SOC/NOC Monitoring Lab](https://github.com/USERNAME/soc-noc-monitoring) |
 | Packet Analysis (PCAP / Wireshark) | [CTF Writeups](https://github.com/USERNAME/ctf-writeups) |
 | Penetration Testing Fundamentals | [Pentest Lab (Kali + Metasploitable)](https://github.com/USERNAME/pentest-lab) |
-| Applied Cryptography | [OpenSSL Crypto Lab](https://github.com/USERNAME/openssl-crypto-lab) |
 
 ## > Tools
 
