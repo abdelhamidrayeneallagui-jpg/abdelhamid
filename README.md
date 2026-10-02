@@ -71,10 +71,7 @@ My goal is to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst*
 ## > Projects
 
 - [Wazuh SIEM Lab](https://github.com/USERNAME/wazuh-siem-lab): SIEM deployment on VirtualBox, agents, rules and alerts
-- [Snort IDS Lab](https://github.com/USERNAME/snort-ids-lab): custom rules and attack detection
 - [SOC/NOC Monitoring Lab](https://github.com/USERNAME/soc-noc-monitoring): Wazuh + Zabbix combined monitoring
-- [CTF Writeups](https://github.com/USERNAME/ctf-writeups): crypto, PCAP analysis, file carving
-- [OpenSSL Crypto Lab](https://github.com/USERNAME/openssl-crypto-lab): encryption, hashing and certificates on Kali
 
 ## > Languages
 
