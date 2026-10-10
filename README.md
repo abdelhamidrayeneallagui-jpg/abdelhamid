@@ -35,7 +35,7 @@ My goal is to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst*
 | Network Monitoring and Alerting | [SOC/NOC Monitoring Lab](https://github.com/USERNAME/soc-noc-monitoring) |
 | Packet Analysis (PCAP / Wireshark) | [CTF Writeups](https://github.com/USERNAME/ctf-writeups) |
 | Penetration Testing Fundamentals | [Pentest Lab (Kali + Metasploitable)](https://github.com/USERNAME/pentest-lab) |
-
+| Incident Response and Detection Engineering | [Incident Response Lab](https://github.com/abdelhamidrayeneallagui-jpg/incident-response-lab-dvwa-beef) |
 ## > Tools
 
 ### Network
@@ -70,7 +70,7 @@ My goal is to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst*
 
 - [Wazuh SIEM Lab](https://github.com/USERNAME/wazuh-siem-lab): SIEM deployment on VirtualBox, agents, rules and alerts
 - [SOC/NOC Monitoring Lab](https://github.com/USERNAME/soc-noc-monitoring): Wazuh + Zabbix combined monitoring
-
+- [Incident Response Lab](https://github.com/abdelhamidrayeneallagui-jpg/incident-response-lab-dvwa-beef): XSS + BeEF attack simulation and Wazuh SIEM detection
 ## > Languages
 
 Arabic (native) · French (professional) · English (intermediate)
